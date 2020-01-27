@@ -3,5 +3,7 @@
 Repositorio remoto ( GiHub, Servidor)
 Repositorio local (computador personal)
 
-ModificaciÛn 1, se agrega una nueva linea
-ModificaciÛn 2, se eslimina una linea
+Modificaci√≥n 1, se agrega una nueva linea
+Modificaci√≥n 2, se eslimina una linea
+
+Modificaci√≥n realizada en la branch add_file
